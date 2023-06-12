@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - seaborn
+  - numpy
+  - scipy
+  - typing
+  - scikit-learn
+  - omegaconf
+  - pip
+
