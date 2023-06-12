@@ -1,0 +1,1082 @@
+location,date,num_sequences_total
+Angola,2021-04-05,137
+Angola,2021-04-19,83
+Angola,2021-05-03,34
+Angola,2021-05-17,5
+Angola,2021-05-31,7
+Angola,2021-06-14,22
+Angola,2021-06-28,59
+Angola,2021-07-12,46
+Angola,2021-07-26,10
+Angola,2021-08-09,4
+Argentina,2021-04-05,196
+Argentina,2021-04-19,298
+Argentina,2021-05-03,337
+Argentina,2021-05-17,338
+Argentina,2021-05-31,301
+Argentina,2021-06-14,407
+Argentina,2021-06-28,380
+Argentina,2021-07-12,356
+Argentina,2021-07-26,336
+Argentina,2021-08-09,480
+Aruba,2021-04-05,92
+Aruba,2021-04-19,145
+Aruba,2021-05-03,140
+Aruba,2021-05-17,101
+Aruba,2021-05-31,107
+Aruba,2021-06-14,89
+Aruba,2021-06-28,24
+Aruba,2021-07-12,29
+Aruba,2021-07-26,97
+Aruba,2021-08-09,341
+Australia,2021-04-05,123
+Australia,2021-04-19,157
+Australia,2021-05-03,204
+Australia,2021-05-17,117
+Australia,2021-05-31,108
+Australia,2021-06-14,132
+Australia,2021-06-28,247
+Australia,2021-07-12,767
+Australia,2021-07-26,1742
+Australia,2021-08-09,2734
+Austria,2021-04-05,291
+Austria,2021-04-19,353
+Austria,2021-05-03,329
+Austria,2021-05-17,619
+Austria,2021-05-31,389
+Austria,2021-06-14,398
+Austria,2021-06-28,750
+Austria,2021-07-12,505
+Austria,2021-07-26,771
+Austria,2021-08-09,623
+Bahrain,2021-04-05,2
+Bahrain,2021-04-19,42
+Bahrain,2021-05-03,9
+Bahrain,2021-05-17,57
+Bahrain,2021-05-31,46
+Bahrain,2021-06-14,24
+Bahrain,2021-06-28,84
+Bahrain,2021-07-12,69
+Bahrain,2021-07-26,106
+Bahrain,2021-08-09,48
+Bangladesh,2021-04-05,87
+Bangladesh,2021-04-19,131
+Bangladesh,2021-05-03,56
+Bangladesh,2021-05-17,58
+Bangladesh,2021-05-31,99
+Bangladesh,2021-06-14,69
+Bangladesh,2021-06-28,112
+Bangladesh,2021-07-12,244
+Bangladesh,2021-07-26,174
+Bangladesh,2021-08-09,149
+Belgium,2021-04-05,3438
+Belgium,2021-04-19,2911
+Belgium,2021-05-03,3338
+Belgium,2021-05-17,3108
+Belgium,2021-05-31,2952
+Belgium,2021-06-14,1995
+Belgium,2021-06-28,1181
+Belgium,2021-07-12,2640
+Belgium,2021-07-26,3960
+Belgium,2021-08-09,4006
+Belize,2021-04-19,3
+Belize,2021-05-03,1
+Belize,2021-05-17,15
+Belize,2021-05-31,3
+Belize,2021-06-14,1
+Belize,2021-06-28,32
+Belize,2021-07-12,18
+Belize,2021-07-26,58
+Belize,2021-08-09,63
+Benin,2021-04-05,176
+Benin,2021-04-19,8
+Benin,2021-05-03,25
+Benin,2021-05-17,32
+Benin,2021-05-31,27
+Benin,2021-06-14,9
+Benin,2021-06-28,14
+Benin,2021-07-12,28
+Benin,2021-07-26,36
+Benin,2021-08-09,34
+Bosnia and Herzegovina,2021-04-05,3
+Bosnia and Herzegovina,2021-04-19,17
+Bosnia and Herzegovina,2021-05-17,2
+Bosnia and Herzegovina,2021-05-31,1
+Bosnia and Herzegovina,2021-06-14,23
+Bosnia and Herzegovina,2021-06-28,16
+Bosnia and Herzegovina,2021-07-12,21
+Bosnia and Herzegovina,2021-07-26,12
+Bosnia and Herzegovina,2021-08-09,9
+Botswana,2021-04-05,7
+Botswana,2021-05-03,7
+Botswana,2021-05-17,19
+Botswana,2021-05-31,48
+Botswana,2021-06-14,102
+Botswana,2021-06-28,196
+Botswana,2021-07-12,106
+Botswana,2021-07-26,68
+Botswana,2021-08-09,38
+Brazil,2021-04-05,2797
+Brazil,2021-04-19,3791
+Brazil,2021-05-03,3804
+Brazil,2021-05-17,3247
+Brazil,2021-05-31,4137
+Brazil,2021-06-14,5088
+Brazil,2021-06-28,4466
+Brazil,2021-07-12,5548
+Brazil,2021-07-26,5381
+Brazil,2021-08-09,5217
+Brunei,2021-07-26,16
+Bulgaria,2021-04-05,557
+Bulgaria,2021-04-19,371
+Bulgaria,2021-05-03,253
+Bulgaria,2021-05-17,118
+Bulgaria,2021-05-31,38
+Bulgaria,2021-06-14,103
+Bulgaria,2021-06-28,125
+Bulgaria,2021-07-12,176
+Bulgaria,2021-07-26,239
+Bulgaria,2021-08-09,494
+Cambodia,2021-04-05,3
+Cambodia,2021-04-19,39
+Cambodia,2021-05-03,56
+Cambodia,2021-05-17,52
+Cambodia,2021-05-31,69
+Cambodia,2021-06-14,76
+Cambodia,2021-06-28,94
+Cambodia,2021-07-12,81
+Cambodia,2021-07-26,121
+Cambodia,2021-08-09,87
+Cameroon,2021-04-19,7
+Cameroon,2021-08-09,3
+Canada,2021-04-05,9805
+Canada,2021-04-19,10654
+Canada,2021-05-03,11006
+Canada,2021-05-17,8584
+Canada,2021-05-31,5887
+Canada,2021-06-14,4215
+Canada,2021-06-28,3712
+Canada,2021-07-12,1536
+Canada,2021-07-26,2454
+Canada,2021-08-09,7056
+Chile,2021-04-05,266
+Chile,2021-04-19,359
+Chile,2021-05-03,565
+Chile,2021-05-17,625
+Chile,2021-05-31,435
+Chile,2021-06-14,626
+Chile,2021-06-28,719
+Chile,2021-07-12,866
+Chile,2021-07-26,568
+Chile,2021-08-09,789
+Colombia,2021-04-05,160
+Colombia,2021-04-19,803
+Colombia,2021-05-03,432
+Colombia,2021-05-17,375
+Colombia,2021-05-31,194
+Colombia,2021-06-14,283
+Colombia,2021-06-28,224
+Colombia,2021-07-12,462
+Colombia,2021-07-26,920
+Colombia,2021-08-09,775
+Costa Rica,2021-04-05,58
+Costa Rica,2021-04-19,71
+Costa Rica,2021-05-03,57
+Costa Rica,2021-05-17,33
+Costa Rica,2021-05-31,47
+Costa Rica,2021-06-14,33
+Costa Rica,2021-06-28,56
+Costa Rica,2021-07-12,84
+Costa Rica,2021-07-26,88
+Costa Rica,2021-08-09,138
+Croatia,2021-04-05,749
+Croatia,2021-04-19,375
+Croatia,2021-05-03,786
+Croatia,2021-05-17,639
+Croatia,2021-05-31,370
+Croatia,2021-06-14,311
+Croatia,2021-06-28,162
+Croatia,2021-07-12,369
+Croatia,2021-07-26,407
+Croatia,2021-08-09,511
+Curacao,2021-04-05,57
+Curacao,2021-04-19,61
+Curacao,2021-05-03,45
+Curacao,2021-05-17,25
+Curacao,2021-05-31,10
+Curacao,2021-06-14,4
+Curacao,2021-06-28,16
+Curacao,2021-07-12,38
+Curacao,2021-07-26,67
+Curacao,2021-08-09,62
+Czechia,2021-04-05,374
+Czechia,2021-04-19,635
+Czechia,2021-05-03,780
+Czechia,2021-05-17,558
+Czechia,2021-05-31,275
+Czechia,2021-06-14,388
+Czechia,2021-06-28,218
+Czechia,2021-07-12,501
+Czechia,2021-07-26,527
+Czechia,2021-08-09,566
+Denmark,2021-04-05,7193
+Denmark,2021-04-19,7082
+Denmark,2021-05-03,7679
+Denmark,2021-05-17,9822
+Denmark,2021-05-31,9480
+Denmark,2021-06-14,5882
+Denmark,2021-06-28,2061
+Denmark,2021-07-12,5124
+Denmark,2021-07-26,10876
+Denmark,2021-08-09,10917
+Djibouti,2021-04-05,64
+Djibouti,2021-04-19,37
+Djibouti,2021-05-03,23
+Djibouti,2021-05-17,5
+Djibouti,2021-05-31,1
+Djibouti,2021-07-12,1
+Djibouti,2021-08-09,2
+Dominican Republic,2021-04-05,13
+Dominican Republic,2021-04-19,17
+Dominican Republic,2021-05-03,1
+Dominican Republic,2021-05-17,87
+Dominican Republic,2021-05-31,101
+Dominican Republic,2021-06-14,19
+Dominican Republic,2021-06-28,13
+Dominican Republic,2021-07-12,10
+Dominican Republic,2021-07-26,10
+Dominican Republic,2021-08-09,29
+Ecuador,2021-04-05,23
+Ecuador,2021-04-19,57
+Ecuador,2021-05-03,65
+Ecuador,2021-05-17,139
+Ecuador,2021-05-31,102
+Ecuador,2021-06-14,167
+Ecuador,2021-06-28,145
+Ecuador,2021-07-12,366
+Ecuador,2021-07-26,565
+Ecuador,2021-08-09,232
+Egypt,2021-04-05,74
+Egypt,2021-04-19,10
+Egypt,2021-05-03,89
+Egypt,2021-05-17,42
+Egypt,2021-05-31,23
+Egypt,2021-06-14,10
+Egypt,2021-06-28,4
+Egypt,2021-07-12,3
+Egypt,2021-07-26,1
+Egypt,2021-08-09,9
+Estonia,2021-04-05,1121
+Estonia,2021-04-19,368
+Estonia,2021-05-03,351
+Estonia,2021-05-17,326
+Estonia,2021-06-14,137
+Estonia,2021-06-28,45
+Estonia,2021-07-12,138
+Estonia,2021-07-26,252
+Estonia,2021-08-09,360
+Ethiopia,2021-04-05,6
+Ethiopia,2021-04-19,1
+Ethiopia,2021-05-03,2
+Ethiopia,2021-05-31,26
+Ethiopia,2021-06-14,5
+Ethiopia,2021-07-12,6
+Ethiopia,2021-07-26,59
+Ethiopia,2021-08-09,253
+Fiji,2021-04-19,7
+Fiji,2021-05-03,18
+Fiji,2021-05-17,22
+Fiji,2021-05-31,24
+Fiji,2021-06-14,52
+Fiji,2021-06-28,252
+Fiji,2021-07-12,140
+Finland,2021-04-05,987
+Finland,2021-04-19,702
+Finland,2021-05-03,542
+Finland,2021-05-17,601
+Finland,2021-05-31,529
+Finland,2021-06-14,294
+Finland,2021-06-28,734
+Finland,2021-07-12,822
+Finland,2021-07-26,1484
+Finland,2021-08-09,1655
+France,2021-04-05,6026
+France,2021-04-19,5009
+France,2021-05-03,4393
+France,2021-05-17,3260
+France,2021-05-31,3135
+France,2021-06-14,2215
+France,2021-06-28,1950
+France,2021-07-12,4263
+France,2021-07-26,13457
+France,2021-08-09,9502
+Gambia,2021-04-05,14
+Gambia,2021-04-19,5
+Gambia,2021-05-03,11
+Gambia,2021-05-17,2
+Gambia,2021-05-31,12
+Gambia,2021-06-14,2
+Gambia,2021-06-28,5
+Gambia,2021-07-12,69
+Gambia,2021-07-26,40
+Gambia,2021-08-09,127
+Georgia,2021-04-05,4
+Georgia,2021-04-19,1
+Georgia,2021-05-03,3
+Georgia,2021-05-17,23
+Georgia,2021-05-31,28
+Georgia,2021-06-14,17
+Georgia,2021-06-28,17
+Georgia,2021-07-12,27
+Georgia,2021-07-26,8
+Georgia,2021-08-09,16
+Germany,2021-04-05,16353
+Germany,2021-04-19,19363
+Germany,2021-05-03,19306
+Germany,2021-05-17,15645
+Germany,2021-05-31,9815
+Germany,2021-06-14,5401
+Germany,2021-06-28,2632
+Germany,2021-07-12,2651
+Germany,2021-07-26,4588
+Germany,2021-08-09,6197
+Ghana,2021-04-05,46
+Ghana,2021-04-19,96
+Ghana,2021-05-03,84
+Ghana,2021-05-17,60
+Ghana,2021-05-31,78
+Ghana,2021-06-14,58
+Ghana,2021-06-28,104
+Ghana,2021-07-12,156
+Ghana,2021-07-26,168
+Ghana,2021-08-09,110
+Greece,2021-04-05,338
+Greece,2021-04-19,609
+Greece,2021-05-03,1269
+Greece,2021-05-17,1255
+Greece,2021-05-31,562
+Greece,2021-06-14,183
+Greece,2021-06-28,84
+Greece,2021-07-12,296
+Greece,2021-07-26,354
+Greece,2021-08-09,218
+Guatemala,2021-04-05,9
+Guatemala,2021-04-19,27
+Guatemala,2021-05-03,8
+Guatemala,2021-05-17,11
+Guatemala,2021-05-31,19
+Guatemala,2021-06-14,24
+Guatemala,2021-06-28,82
+Guatemala,2021-07-12,171
+Guatemala,2021-07-26,55
+Guatemala,2021-08-09,76
+Hong Kong,2021-04-05,43
+Hong Kong,2021-04-19,77
+Hong Kong,2021-05-03,40
+Hong Kong,2021-05-17,21
+Hong Kong,2021-05-31,8
+Hong Kong,2021-06-14,30
+Hong Kong,2021-06-28,52
+Hong Kong,2021-07-12,33
+Hong Kong,2021-07-26,15
+Hong Kong,2021-08-09,26
+Iceland,2021-04-05,103
+Iceland,2021-04-19,88
+Iceland,2021-05-03,157
+Iceland,2021-05-17,63
+Iceland,2021-05-31,41
+Iceland,2021-06-14,45
+Iceland,2021-06-28,37
+Iceland,2021-07-12,40
+Iceland,2021-07-26,623
+Iceland,2021-08-09,1449
+India,2021-04-05,4734
+India,2021-04-19,7463
+India,2021-05-03,8086
+India,2021-05-17,6417
+India,2021-05-31,5348
+India,2021-06-14,4258
+India,2021-06-28,3779
+India,2021-07-12,3408
+India,2021-07-26,3285
+India,2021-08-09,2888
+Indonesia,2021-04-05,175
+Indonesia,2021-04-19,183
+Indonesia,2021-05-03,248
+Indonesia,2021-05-17,353
+Indonesia,2021-05-31,590
+Indonesia,2021-06-14,650
+Indonesia,2021-06-28,1041
+Indonesia,2021-07-12,977
+Indonesia,2021-07-26,752
+Indonesia,2021-08-09,1015
+Iran,2021-04-05,17
+Iran,2021-04-19,22
+Iran,2021-05-03,48
+Iran,2021-05-17,17
+Iran,2021-05-31,4
+Iran,2021-07-26,1
+Iran,2021-08-09,3
+Iraq,2021-04-05,5
+Iraq,2021-04-19,2
+Iraq,2021-05-03,12
+Iraq,2021-05-17,3
+Iraq,2021-05-31,2
+Iraq,2021-06-14,2
+Iraq,2021-07-12,2
+Iraq,2021-07-26,8
+Iraq,2021-08-09,2
+Ireland,2021-04-05,1383
+Ireland,2021-04-19,1464
+Ireland,2021-05-03,1901
+Ireland,2021-05-17,1873
+Ireland,2021-05-31,2353
+Ireland,2021-06-14,1402
+Ireland,2021-06-28,1570
+Ireland,2021-07-12,1759
+Ireland,2021-07-26,2900
+Ireland,2021-08-09,3011
+Israel,2021-04-05,830
+Israel,2021-04-19,482
+Israel,2021-05-03,357
+Israel,2021-05-17,204
+Israel,2021-05-31,150
+Israel,2021-06-14,114
+Israel,2021-06-28,847
+Israel,2021-07-12,1627
+Israel,2021-07-26,512
+Israel,2021-08-09,1647
+Italy,2021-04-05,3420
+Italy,2021-04-19,3809
+Italy,2021-05-03,4066
+Italy,2021-05-17,2377
+Italy,2021-05-31,2678
+Italy,2021-06-14,1546
+Italy,2021-06-28,1968
+Italy,2021-07-12,3054
+Italy,2021-07-26,4771
+Italy,2021-08-09,4135
+Jamaica,2021-04-05,9
+Jamaica,2021-04-19,10
+Jamaica,2021-05-03,1
+Jamaica,2021-05-17,30
+Jamaica,2021-05-31,26
+Jamaica,2021-07-26,92
+Jamaica,2021-08-09,8
+Japan,2021-04-05,4081
+Japan,2021-04-19,5582
+Japan,2021-05-03,10178
+Japan,2021-05-17,9411
+Japan,2021-05-31,5920
+Japan,2021-06-14,4207
+Japan,2021-06-28,4220
+Japan,2021-07-12,5720
+Japan,2021-07-26,10145
+Japan,2021-08-09,17302
+Jordan,2021-04-05,13
+Jordan,2021-04-19,19
+Jordan,2021-05-03,16
+Jordan,2021-05-17,17
+Jordan,2021-05-31,14
+Jordan,2021-06-14,27
+Jordan,2021-06-28,16
+Jordan,2021-07-12,12
+Jordan,2021-07-26,5
+Jordan,2021-08-09,13
+Kazakhstan,2021-04-05,59
+Kazakhstan,2021-04-19,35
+Kazakhstan,2021-05-03,47
+Kazakhstan,2021-07-26,1
+Kenya,2021-04-05,169
+Kenya,2021-04-19,133
+Kenya,2021-05-03,136
+Kenya,2021-05-17,117
+Kenya,2021-05-31,194
+Kenya,2021-06-14,132
+Kenya,2021-06-28,173
+Kenya,2021-07-12,278
+Kenya,2021-07-26,222
+Kenya,2021-08-09,296
+Kosovo,2021-05-03,2
+Kosovo,2021-05-17,11
+Kosovo,2021-05-31,1
+Kosovo,2021-06-14,7
+Kosovo,2021-07-12,3
+Kosovo,2021-07-26,44
+Kosovo,2021-08-09,166
+Kuwait,2021-04-19,3
+Kuwait,2021-05-31,7
+Kuwait,2021-06-14,32
+Kuwait,2021-06-28,40
+Kuwait,2021-07-12,66
+Kuwait,2021-08-09,8
+Latvia,2021-04-05,458
+Latvia,2021-04-19,750
+Latvia,2021-05-03,725
+Latvia,2021-05-17,509
+Latvia,2021-05-31,517
+Latvia,2021-06-14,65
+Latvia,2021-06-28,71
+Latvia,2021-07-12,108
+Latvia,2021-07-26,137
+Latvia,2021-08-09,149
+Lebanon,2021-04-05,117
+Lebanon,2021-04-19,77
+Lebanon,2021-05-03,91
+Lebanon,2021-05-17,11
+Lebanon,2021-06-28,4
+Lebanon,2021-07-12,52
+Lebanon,2021-07-26,25
+Liechtenstein,2021-04-05,1
+Liechtenstein,2021-04-19,16
+Liechtenstein,2021-05-03,12
+Liechtenstein,2021-05-17,7
+Liechtenstein,2021-05-31,2
+Liechtenstein,2021-06-14,2
+Liechtenstein,2021-06-28,2
+Liechtenstein,2021-07-12,2
+Liechtenstein,2021-07-26,4
+Liechtenstein,2021-08-09,2
+Lithuania,2021-04-05,1624
+Lithuania,2021-04-19,1710
+Lithuania,2021-05-03,1619
+Lithuania,2021-05-17,1422
+Lithuania,2021-05-31,1484
+Lithuania,2021-06-14,664
+Lithuania,2021-06-28,211
+Lithuania,2021-07-12,236
+Lithuania,2021-07-26,993
+Lithuania,2021-08-09,1516
+Luxembourg,2021-04-05,948
+Luxembourg,2021-04-19,1043
+Luxembourg,2021-05-03,1073
+Luxembourg,2021-05-17,744
+Luxembourg,2021-05-31,392
+Luxembourg,2021-06-14,240
+Luxembourg,2021-06-28,130
+Luxembourg,2021-07-12,944
+Luxembourg,2021-07-26,699
+Luxembourg,2021-08-09,459
+Madagascar,2021-04-05,52
+Madagascar,2021-04-19,113
+Madagascar,2021-05-03,16
+Madagascar,2021-05-17,15
+Madagascar,2021-05-31,10
+Madagascar,2021-07-12,17
+Madagascar,2021-07-26,23
+Malawi,2021-04-05,6
+Malawi,2021-04-19,40
+Malawi,2021-05-03,33
+Malawi,2021-05-17,4
+Malawi,2021-05-31,24
+Malawi,2021-06-14,50
+Malawi,2021-06-28,72
+Malawi,2021-07-12,76
+Malawi,2021-07-26,33
+Malawi,2021-08-09,38
+Malaysia,2021-04-05,110
+Malaysia,2021-04-19,208
+Malaysia,2021-05-03,125
+Malaysia,2021-05-17,125
+Malaysia,2021-05-31,73
+Malaysia,2021-06-14,72
+Malaysia,2021-06-28,104
+Malaysia,2021-07-12,134
+Malaysia,2021-07-26,212
+Malaysia,2021-08-09,452
+Maldives,2021-04-05,3
+Maldives,2021-05-03,5
+Maldives,2021-05-17,4
+Maldives,2021-05-31,5
+Maldives,2021-06-14,1
+Maldives,2021-06-28,7
+Maldives,2021-07-12,3
+Maldives,2021-07-26,17
+Maldives,2021-08-09,24
+Malta,2021-04-05,38
+Malta,2021-04-19,32
+Malta,2021-05-03,44
+Malta,2021-05-17,32
+Malta,2021-05-31,15
+Malta,2021-06-14,11
+Malta,2021-06-28,9
+Malta,2021-07-12,60
+Malta,2021-07-26,48
+Malta,2021-08-09,19
+Mauritius,2021-04-05,10
+Mauritius,2021-04-19,3
+Mauritius,2021-05-03,8
+Mauritius,2021-05-17,40
+Mauritius,2021-05-31,8
+Mauritius,2021-06-14,13
+Mauritius,2021-06-28,18
+Mauritius,2021-07-12,23
+Mauritius,2021-07-26,21
+Mauritius,2021-08-09,10
+Mexico,2021-04-05,1011
+Mexico,2021-04-19,1263
+Mexico,2021-05-03,1390
+Mexico,2021-05-17,1589
+Mexico,2021-05-31,1724
+Mexico,2021-06-14,2222
+Mexico,2021-06-28,1889
+Mexico,2021-07-12,2121
+Mexico,2021-07-26,2443
+Mexico,2021-08-09,3024
+Moldova,2021-04-05,5
+Moldova,2021-04-19,2
+Moldova,2021-05-03,4
+Moldova,2021-05-17,12
+Moldova,2021-05-31,1
+Moldova,2021-06-28,6
+Moldova,2021-07-12,7
+Monaco,2021-04-19,2
+Monaco,2021-05-31,1
+Monaco,2021-06-14,11
+Monaco,2021-06-28,20
+Monaco,2021-07-12,1
+Monaco,2021-07-26,14
+Monaco,2021-08-09,14
+Mongolia,2021-04-19,2
+Mongolia,2021-05-17,3
+Mongolia,2021-06-28,16
+Mongolia,2021-07-12,34
+Mongolia,2021-07-26,17
+Mongolia,2021-08-09,52
+Montenegro,2021-06-14,17
+Montenegro,2021-06-28,18
+Montenegro,2021-07-12,20
+Montenegro,2021-07-26,30
+Montenegro,2021-08-09,72
+Morocco,2021-04-05,18
+Morocco,2021-04-19,20
+Morocco,2021-05-03,5
+Morocco,2021-05-31,1
+Morocco,2021-06-14,1
+Morocco,2021-06-28,7
+Morocco,2021-07-12,9
+Morocco,2021-07-26,31
+Mozambique,2021-04-05,11
+Mozambique,2021-04-19,9
+Mozambique,2021-05-03,20
+Mozambique,2021-05-17,9
+Mozambique,2021-05-31,12
+Mozambique,2021-06-14,8
+Mozambique,2021-06-28,114
+Mozambique,2021-07-12,109
+Mozambique,2021-07-26,64
+Mozambique,2021-08-09,24
+Nepal,2021-04-19,4
+Nepal,2021-05-03,17
+Nepal,2021-05-17,30
+Nepal,2021-05-31,18
+Nepal,2021-06-14,39
+Nepal,2021-06-28,14
+Nepal,2021-07-12,25
+Nepal,2021-07-26,15
+Nepal,2021-08-09,22
+Netherlands,2021-04-05,3860
+Netherlands,2021-04-19,3602
+Netherlands,2021-05-03,3934
+Netherlands,2021-05-17,3490
+Netherlands,2021-05-31,2969
+Netherlands,2021-06-14,2635
+Netherlands,2021-06-28,1888
+Netherlands,2021-07-12,3583
+Netherlands,2021-07-26,4845
+Netherlands,2021-08-09,3079
+New Zealand,2021-04-05,29
+New Zealand,2021-04-19,26
+New Zealand,2021-05-03,19
+New Zealand,2021-05-17,7
+New Zealand,2021-05-31,8
+New Zealand,2021-06-14,14
+New Zealand,2021-06-28,16
+New Zealand,2021-07-12,12
+New Zealand,2021-07-26,49
+New Zealand,2021-08-09,31
+Nigeria,2021-04-05,18
+Nigeria,2021-04-19,7
+Nigeria,2021-05-03,23
+Nigeria,2021-05-17,8
+Nigeria,2021-05-31,6
+Nigeria,2021-06-14,7
+Nigeria,2021-06-28,14
+Nigeria,2021-07-12,43
+Nigeria,2021-07-26,94
+Nigeria,2021-08-09,498
+North Macedonia,2021-04-05,36
+North Macedonia,2021-04-19,103
+North Macedonia,2021-05-03,15
+North Macedonia,2021-05-17,30
+North Macedonia,2021-05-31,17
+North Macedonia,2021-06-14,12
+North Macedonia,2021-06-28,4
+North Macedonia,2021-07-12,7
+North Macedonia,2021-07-26,22
+North Macedonia,2021-08-09,12
+Norway,2021-04-05,1328
+Norway,2021-04-19,1847
+Norway,2021-05-03,1654
+Norway,2021-05-17,1837
+Norway,2021-05-31,1417
+Norway,2021-06-14,1134
+Norway,2021-06-28,827
+Norway,2021-07-12,867
+Norway,2021-07-26,892
+Norway,2021-08-09,1320
+Oman,2021-04-05,11
+Oman,2021-04-19,18
+Oman,2021-05-03,53
+Oman,2021-05-17,21
+Oman,2021-05-31,12
+Oman,2021-06-14,43
+Oman,2021-06-28,71
+Oman,2021-07-12,7
+Pakistan,2021-04-05,6
+Pakistan,2021-04-19,138
+Pakistan,2021-05-03,53
+Pakistan,2021-05-17,30
+Pakistan,2021-05-31,80
+Pakistan,2021-06-14,195
+Pakistan,2021-06-28,54
+Pakistan,2021-07-12,59
+Pakistan,2021-07-26,67
+Pakistan,2021-08-09,121
+Papua New Guinea,2021-04-05,598
+Papua New Guinea,2021-04-19,100
+Papua New Guinea,2021-05-03,128
+Papua New Guinea,2021-05-17,193
+Papua New Guinea,2021-05-31,18
+Papua New Guinea,2021-06-14,14
+Papua New Guinea,2021-06-28,3
+Papua New Guinea,2021-07-12,16
+Papua New Guinea,2021-07-26,19
+Papua New Guinea,2021-08-09,19
+Paraguay,2021-04-05,14
+Paraguay,2021-04-19,31
+Paraguay,2021-05-03,20
+Paraguay,2021-05-17,26
+Paraguay,2021-05-31,14
+Paraguay,2021-06-14,41
+Paraguay,2021-06-28,18
+Paraguay,2021-07-12,59
+Paraguay,2021-07-26,25
+Paraguay,2021-08-09,64
+Peru,2021-04-05,190
+Peru,2021-04-19,523
+Peru,2021-05-03,321
+Peru,2021-05-17,325
+Peru,2021-05-31,284
+Peru,2021-06-14,803
+Peru,2021-06-28,496
+Peru,2021-07-12,467
+Peru,2021-07-26,586
+Peru,2021-08-09,507
+Philippines,2021-04-05,1016
+Philippines,2021-04-19,386
+Philippines,2021-05-03,394
+Philippines,2021-05-17,343
+Philippines,2021-05-31,331
+Philippines,2021-06-14,575
+Philippines,2021-06-28,836
+Philippines,2021-07-12,886
+Philippines,2021-07-26,1114
+Philippines,2021-08-09,1400
+Poland,2021-04-05,1803
+Poland,2021-04-19,2782
+Poland,2021-05-03,2636
+Poland,2021-05-17,2568
+Poland,2021-05-31,1627
+Poland,2021-06-14,621
+Poland,2021-06-28,150
+Poland,2021-07-12,186
+Poland,2021-07-26,243
+Poland,2021-08-09,333
+Portugal,2021-04-05,70
+Portugal,2021-04-19,1586
+Portugal,2021-05-03,98
+Portugal,2021-05-17,1061
+Portugal,2021-05-31,110
+Portugal,2021-06-14,1247
+Portugal,2021-06-28,1170
+Portugal,2021-07-12,1132
+Portugal,2021-07-26,1250
+Portugal,2021-08-09,955
+Qatar,2021-04-05,71
+Qatar,2021-04-19,119
+Qatar,2021-05-03,350
+Qatar,2021-05-17,195
+Qatar,2021-05-31,78
+Qatar,2021-06-14,58
+Qatar,2021-08-09,1
+Romania,2021-04-05,297
+Romania,2021-04-19,186
+Romania,2021-05-03,131
+Romania,2021-05-17,167
+Romania,2021-05-31,152
+Romania,2021-06-14,119
+Romania,2021-06-28,72
+Romania,2021-07-12,58
+Romania,2021-07-26,97
+Romania,2021-08-09,262
+Russia,2021-04-05,220
+Russia,2021-04-19,313
+Russia,2021-05-03,313
+Russia,2021-05-17,291
+Russia,2021-05-31,511
+Russia,2021-06-14,904
+Russia,2021-06-28,543
+Russia,2021-07-12,665
+Russia,2021-07-26,214
+Russia,2021-08-09,256
+Rwanda,2021-04-05,21
+Rwanda,2021-04-19,6
+Rwanda,2021-05-03,5
+Rwanda,2021-05-17,8
+Rwanda,2021-05-31,4
+Rwanda,2021-06-14,6
+Rwanda,2021-06-28,119
+Rwanda,2021-07-12,59
+Rwanda,2021-07-26,21
+Rwanda,2021-08-09,56
+Senegal,2021-04-05,17
+Senegal,2021-04-19,5
+Senegal,2021-05-03,2
+Senegal,2021-05-17,6
+Senegal,2021-05-31,3
+Senegal,2021-06-14,50
+Senegal,2021-06-28,1
+Senegal,2021-07-12,3
+Senegal,2021-07-26,47
+Senegal,2021-08-09,43
+Serbia,2021-04-05,1
+Serbia,2021-04-19,8
+Serbia,2021-05-03,14
+Serbia,2021-05-17,29
+Serbia,2021-05-31,18
+Serbia,2021-06-14,5
+Serbia,2021-06-28,1
+Serbia,2021-07-12,15
+Serbia,2021-07-26,15
+Serbia,2021-08-09,5
+Seychelles,2021-04-19,1
+Seychelles,2021-05-03,3
+Seychelles,2021-05-17,2
+Seychelles,2021-05-31,44
+Seychelles,2021-06-14,54
+Seychelles,2021-06-28,15
+Seychelles,2021-07-12,4
+Seychelles,2021-07-26,10
+Seychelles,2021-08-09,23
+Singapore,2021-04-05,164
+Singapore,2021-04-19,188
+Singapore,2021-05-03,191
+Singapore,2021-05-17,220
+Singapore,2021-05-31,330
+Singapore,2021-06-14,178
+Singapore,2021-06-28,217
+Singapore,2021-07-12,75
+Singapore,2021-07-26,836
+Singapore,2021-08-09,864
+Sint Maarten (Dutch part),2021-04-05,40
+Sint Maarten (Dutch part),2021-04-19,20
+Sint Maarten (Dutch part),2021-05-03,33
+Sint Maarten (Dutch part),2021-05-17,28
+Sint Maarten (Dutch part),2021-05-31,111
+Sint Maarten (Dutch part),2021-06-14,51
+Sint Maarten (Dutch part),2021-06-28,68
+Sint Maarten (Dutch part),2021-07-12,39
+Sint Maarten (Dutch part),2021-07-26,67
+Sint Maarten (Dutch part),2021-08-09,147
+Slovakia,2021-04-05,660
+Slovakia,2021-04-19,616
+Slovakia,2021-05-03,337
+Slovakia,2021-05-17,338
+Slovakia,2021-05-31,691
+Slovakia,2021-06-14,594
+Slovakia,2021-06-28,249
+Slovakia,2021-07-12,242
+Slovakia,2021-07-26,271
+Slovakia,2021-08-09,372
+Slovenia,2021-04-05,1656
+Slovenia,2021-04-19,2046
+Slovenia,2021-05-03,1979
+Slovenia,2021-05-17,1267
+Slovenia,2021-05-31,699
+Slovenia,2021-06-14,658
+Slovenia,2021-06-28,385
+Slovenia,2021-07-12,474
+Slovenia,2021-07-26,749
+Slovenia,2021-08-09,1341
+South Africa,2021-04-05,324
+South Africa,2021-04-19,250
+South Africa,2021-05-03,390
+South Africa,2021-05-17,545
+South Africa,2021-05-31,646
+South Africa,2021-06-14,1101
+South Africa,2021-06-28,1661
+South Africa,2021-07-12,2226
+South Africa,2021-07-26,1667
+South Africa,2021-08-09,1601
+South Korea,2021-04-05,324
+South Korea,2021-04-19,408
+South Korea,2021-05-03,530
+South Korea,2021-05-17,223
+South Korea,2021-05-31,210
+South Korea,2021-06-14,473
+South Korea,2021-06-28,575
+South Korea,2021-07-12,715
+South Korea,2021-07-26,1062
+South Korea,2021-08-09,960
+Spain,2021-04-05,2788
+Spain,2021-04-19,2957
+Spain,2021-05-03,2815
+Spain,2021-05-17,3341
+Spain,2021-05-31,2613
+Spain,2021-06-14,3221
+Spain,2021-06-28,3000
+Spain,2021-07-12,5987
+Spain,2021-07-26,5278
+Spain,2021-08-09,5388
+Sri Lanka,2021-04-05,12
+Sri Lanka,2021-04-19,8
+Sri Lanka,2021-05-03,66
+Sri Lanka,2021-05-17,44
+Sri Lanka,2021-05-31,43
+Sri Lanka,2021-06-14,61
+Sri Lanka,2021-06-28,142
+Sri Lanka,2021-07-12,71
+Sri Lanka,2021-07-26,82
+Sri Lanka,2021-08-09,118
+Suriname,2021-04-05,57
+Suriname,2021-04-19,49
+Suriname,2021-05-03,23
+Suriname,2021-05-17,43
+Suriname,2021-05-31,53
+Suriname,2021-06-14,37
+Suriname,2021-06-28,50
+Suriname,2021-07-12,39
+Suriname,2021-07-26,35
+Suriname,2021-08-09,50
+Sweden,2021-04-05,10365
+Sweden,2021-04-19,7416
+Sweden,2021-05-03,6766
+Sweden,2021-05-17,7046
+Sweden,2021-05-31,5268
+Sweden,2021-06-14,3876
+Sweden,2021-06-28,3329
+Sweden,2021-07-12,2229
+Sweden,2021-07-26,3358
+Sweden,2021-08-09,4585
+Switzerland,2021-04-05,2521
+Switzerland,2021-04-19,3200
+Switzerland,2021-05-03,4034
+Switzerland,2021-05-17,2882
+Switzerland,2021-05-31,2210
+Switzerland,2021-06-14,1108
+Switzerland,2021-06-28,479
+Switzerland,2021-07-12,963
+Switzerland,2021-07-26,2932
+Switzerland,2021-08-09,4623
+Thailand,2021-04-05,29
+Thailand,2021-04-19,129
+Thailand,2021-05-03,99
+Thailand,2021-05-17,589
+Thailand,2021-05-31,613
+Thailand,2021-06-14,274
+Thailand,2021-06-28,391
+Thailand,2021-07-12,208
+Thailand,2021-07-26,590
+Thailand,2021-08-09,298
+Togo,2021-04-05,8
+Togo,2021-04-19,14
+Togo,2021-05-03,8
+Togo,2021-06-14,25
+Togo,2021-06-28,27
+Togo,2021-07-12,24
+Togo,2021-07-26,24
+Togo,2021-08-09,44
+Trinidad and Tobago,2021-04-05,8
+Trinidad and Tobago,2021-04-19,70
+Trinidad and Tobago,2021-05-03,197
+Trinidad and Tobago,2021-05-17,142
+Trinidad and Tobago,2021-05-31,28
+Trinidad and Tobago,2021-06-14,23
+Trinidad and Tobago,2021-06-28,11
+Trinidad and Tobago,2021-07-12,8
+Trinidad and Tobago,2021-07-26,12
+Trinidad and Tobago,2021-08-09,50
+Turkey,2021-04-05,1375
+Turkey,2021-04-19,21
+Turkey,2021-05-03,144
+Turkey,2021-05-17,292
+Turkey,2021-05-31,290
+Turkey,2021-06-14,270
+Turkey,2021-06-28,1143
+Turkey,2021-07-12,4053
+Turkey,2021-07-26,1260
+Turkey,2021-08-09,12442
+Uganda,2021-04-05,26
+Uganda,2021-04-19,17
+Uganda,2021-05-03,11
+Uganda,2021-05-17,17
+Uganda,2021-05-31,21
+Uganda,2021-06-14,172
+Uganda,2021-06-28,114
+Uganda,2021-07-12,12
+Uganda,2021-07-26,15
+Uganda,2021-08-09,17
+Ukraine,2021-04-05,2
+Ukraine,2021-05-17,4
+Ukraine,2021-05-31,21
+Ukraine,2021-06-14,3
+Ukraine,2021-06-28,43
+Ukraine,2021-07-12,33
+Ukraine,2021-07-26,32
+United Arab Emirates,2021-05-03,5
+United Arab Emirates,2021-06-14,2
+United Arab Emirates,2021-06-28,20
+United Kingdom,2021-04-05,29673
+United Kingdom,2021-04-19,15908
+United Kingdom,2021-05-03,14275
+United Kingdom,2021-05-17,14374
+United Kingdom,2021-05-31,23824
+United Kingdom,2021-06-14,37317
+United Kingdom,2021-06-28,43442
+United Kingdom,2021-07-12,56140
+United Kingdom,2021-07-26,57203
+United Kingdom,2021-08-09,64528
+United States,2021-04-05,68922
+United States,2021-04-19,80542
+United States,2021-05-03,68541
+United States,2021-05-17,51424
+United States,2021-05-31,28913
+United States,2021-06-14,20283
+United States,2021-06-28,22291
+United States,2021-07-12,37254
+United States,2021-07-26,79713
+United States,2021-08-09,146170
+Uruguay,2021-04-05,70
+Uruguay,2021-04-19,134
+Uruguay,2021-05-03,21
+Vietnam,2021-05-03,15
+Vietnam,2021-05-17,58
+Vietnam,2021-05-31,26
+Vietnam,2021-06-14,14
+Vietnam,2021-06-28,6
+Vietnam,2021-07-26,67
+Vietnam,2021-08-09,106
+Zambia,2021-04-05,9
+Zambia,2021-04-19,2
+Zambia,2021-05-03,18
+Zambia,2021-05-31,87
+Zambia,2021-06-14,94
+Zambia,2021-06-28,22
+Zambia,2021-07-12,70
+Zambia,2021-07-26,41
+Zambia,2021-08-09,17
+Zimbabwe,2021-06-28,3
+Zimbabwe,2021-07-12,42
+Zimbabwe,2021-07-26,35
+Zimbabwe,2021-08-09,18
