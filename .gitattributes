@@ -1,0 +1,4 @@
+data/4i/v2_full-4i_normalized.csv filter=lfs diff=lfs merge=lfs -text
+data/4i/v2_reduced-4i_normalized.csv filter=lfs diff=lfs merge=lfs -text
+data/covid/covid_v4_t0_points.npy filter=lfs diff=lfs merge=lfs -text
+data/covid/covid_v4_t1_points.npy filter=lfs diff=lfs merge=lfs -text
