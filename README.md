@@ -2,7 +2,14 @@
 
 Reference repository for the paper **Unbalanced Diffusion Schrödinger Bridge**, cite as:
 
-[put citation]
+    @misc{pariset2023unbalanced,
+      title={Unbalanced Diffusion Schr\"odinger Bridge}, 
+      author={Matteo Pariset and Ya-Ping Hsieh and Charlotte Bunne and Andreas Krause and Valentin De Bortoli},
+      year={2023},
+      eprint={2306.09099},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+    }
 
 ## Setup
 
@@ -27,10 +34,6 @@ Install remaning dependencies:
 
     conda install -c conda-forge optax
     conda install -c conda-forge ott-jax
-
-### Dataset download
-
-...
 
 
 ## Structure
