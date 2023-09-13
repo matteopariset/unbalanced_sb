@@ -53,6 +53,8 @@ Raw data and preprocessing pipelines are contained in the `data` folder.
    - `flights/`: folder with flight data and country embedding
    - `covid/`: folder with raw and processed data belonging to the **covid** experiment
 
+Datasets DOI: <https://doi.org/10.3929/ethz-b-000631091>.
+
 
 ### Algorithms
 
